@@ -8,6 +8,7 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 
+#2015年03月30日14:26:48被封
 #google hosts
 74.125.224.7    0.docs.google.com
 74.125.224.7    0.drive.google.com
