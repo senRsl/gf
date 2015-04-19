@@ -8,6 +8,7 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 
+#2015年04月14日20:07:41封
 #google hosts
 #Current Version 36
 # Youtube
