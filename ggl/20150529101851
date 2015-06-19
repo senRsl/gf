@@ -8,6 +8,7 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 
+#2015年06月19日14:47:51间歇性不稳定
 # Current Version 46
 # Youtube
 # Youtube videos
